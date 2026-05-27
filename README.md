@@ -56,4 +56,4 @@ The layout and color scheme are inspired by the iOS calculator:
 ## 👤 Author
 
 **Miguel Veloso**  
-[GitHub](https://github.com/VelosoMiguel) · [LinkedIn](https://linkedin.com/in/your-profile)
+[GitHub](https://github.com/VelosoMiguel) · [LinkedIn](https://www.linkedin.com/in/miguel-veloso-91355b372/)
